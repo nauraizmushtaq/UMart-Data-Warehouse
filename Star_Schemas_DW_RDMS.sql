@@ -1,9 +1,3 @@
---------------------------------------------------------
---  File created - Tuesday-November-19-2019   
---------------------------------------------------------
---------------------------------------------------------
---  DDL for Procedure DW_CREATE
---------------------------------------------------------
 set define off;
 
   CREATE OR REPLACE PROCEDURE DW_CREATE AUTHID CURRENT_USER IS
