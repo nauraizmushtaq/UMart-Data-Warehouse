@@ -9,6 +9,8 @@ Use by metro analyst to make better bussiness decision by analyzing, and visuali
 ## Installation
 
 1.  Oracle 11g
+2. SQL PLUS
+3. SQL DEVELOPER
 
 ## Run
 
