@@ -1,6 +1,6 @@
 # UMart Data-Warehouse
 
-Designed, implement and analyse a Data Warehouse for Metro store. Integrate Data through ETL. Implement Index Nested Loop Join in trnasformation phase of ETL.
+Designed, implement and analyse a Data Warehouse for Umart store. Integrate Data through ETL. Implement Index Nested Loop Join in trnasformation phase of ETL.
 
 ## Usage
 
